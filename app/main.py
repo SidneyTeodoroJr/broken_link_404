@@ -13,7 +13,7 @@ st.sidebar.image("https://scontent-gig4-2.xx.fbcdn.net/v/t39.30808-6/327445113_9
 st.sidebar.write("""<p>Esse projeto foi proposto pela <a href="https://www.freehelper.com.br/" target="_blank">Freehelper</a>, uma plataforma social que conecta ONGs, pessoas habilidosas e empresas responsáveis para projetos de curto-prazo em diferentes áreas profissionais.
 <p/>""", unsafe_allow_html=True) 
 
-st.sidebar.markdown('<p id="About">© 2023 <a href="https://github.com/SidneyTeodoroJr" target="_blank">Sidney T. A. Junior</a> / Todos os direitos reservados.</p>', unsafe_allow_html=True)
+st.sidebar.markdown('<p id="About">© 2024 <a href="https://github.com/SidneyTeodoroJr" target="_blank">Sidney T. A. Junior</a> / Todos os direitos reservados.</p>', unsafe_allow_html=True)
 
 
 st.write("<h1>Broken Link 404<h1/>", unsafe_allow_html=True)
