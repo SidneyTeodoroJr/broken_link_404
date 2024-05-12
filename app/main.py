@@ -8,7 +8,7 @@ from module.search import *
 page()
 css()
 
-st.sidebar.image("app\img\images.png")
+st.sidebar.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRclYnP9_yHbB45IEoZ_6tAoc7f6F7tflUTgLZVZ_EfFQ&s")
 
 st.sidebar.write("""<p>Esse projeto foi proposto pela <a href="https://www.freehelper.com.br/" target="_blank">Freehelper</a>, uma plataforma social que conecta ONGs, pessoas habilidosas e empresas responsáveis para projetos de curto-prazo em diferentes áreas profissionais.
 <p/>""", unsafe_allow_html=True) 
