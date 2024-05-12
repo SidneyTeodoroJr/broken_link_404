@@ -33,6 +33,9 @@ def css():
     #About {
         padding-top: 50%;
     }
+    #logo {
+        align-items: center;
+    }
      img {
         border-radius: 50%;
         box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
